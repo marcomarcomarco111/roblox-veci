@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Blender autosave/zálohy (.blend1, .blend2 …)
+*.blend[0-9]*
+
+# Lokálne nastavenia Claude Code
+.claude/settings.local.json
+.claude/.cc-writes/
+
+# Inšpirácie (cudzie obrázky/modely, nepatria do repa)
+weapons inspo/

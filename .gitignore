@@ -7,6 +7,3 @@
 # Lokálne nastavenia Claude Code
 .claude/settings.local.json
 .claude/.cc-writes/
-
-# Inšpirácie (cudzie obrázky/modely, nepatria do repa)
-weapons inspo/
